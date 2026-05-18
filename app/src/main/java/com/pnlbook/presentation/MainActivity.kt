@@ -5,7 +5,7 @@ import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
 import com.pnlbook.presentation.main.MainScreen
-import com.pnlbook.ui.theme.PnlbookTheme
+import com.pnlbook.presentation.ui.theme.PnlbookTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
