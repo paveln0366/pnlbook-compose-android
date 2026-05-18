@@ -7,7 +7,7 @@ import androidx.navigation.compose.composable
 import androidx.navigation.navArgument
 import androidx.navigation.navigation
 import com.google.gson.Gson
-import com.pnlbook.domain.Connection
+import com.pnlbook.domain.entity.Connection
 
 fun NavGraphBuilder.connectionsContainerNavGraph(
     connectionsScreenContent: @Composable () -> Unit,

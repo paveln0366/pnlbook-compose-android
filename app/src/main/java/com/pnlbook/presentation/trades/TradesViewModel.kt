@@ -4,7 +4,7 @@ import android.app.Application
 import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
-import com.pnlbook.domain.Connection
+import com.pnlbook.domain.entity.Connection
 import com.pnlbook.domain.Trade
 
 class TradesViewModel(

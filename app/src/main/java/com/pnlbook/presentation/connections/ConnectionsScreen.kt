@@ -28,7 +28,7 @@ import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.viewmodel.compose.viewModel
 import com.pnlbook.R
-import com.pnlbook.domain.Connection
+import com.pnlbook.domain.entity.Connection
 import kotlinx.coroutines.launch
 
 @OptIn(ExperimentalMaterial3Api::class)

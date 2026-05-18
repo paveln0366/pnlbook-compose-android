@@ -1,6 +1,6 @@
 package com.pnlbook.presentation.connections
 
-import com.pnlbook.domain.Connection
+import com.pnlbook.domain.entity.Connection
 
 sealed class ConnectionsScreenState {
 

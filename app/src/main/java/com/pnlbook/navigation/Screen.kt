@@ -2,7 +2,7 @@ package com.pnlbook.navigation
 
 import android.net.Uri
 import com.google.gson.Gson
-import com.pnlbook.domain.Connection
+import com.pnlbook.domain.entity.Connection
 
 sealed class Screen(
     val route: String

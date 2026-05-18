@@ -4,7 +4,7 @@ import androidx.compose.runtime.Composable
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
-import com.pnlbook.domain.Connection
+import com.pnlbook.domain.entity.Connection
 
 @Composable
 fun MainNavGraph(

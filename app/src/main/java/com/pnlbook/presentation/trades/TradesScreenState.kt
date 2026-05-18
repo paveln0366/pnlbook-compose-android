@@ -1,6 +1,6 @@
 package com.pnlbook.presentation.trades
 
-import com.pnlbook.domain.Connection
+import com.pnlbook.domain.entity.Connection
 import com.pnlbook.domain.Trade
 
 sealed class TradesScreenState {

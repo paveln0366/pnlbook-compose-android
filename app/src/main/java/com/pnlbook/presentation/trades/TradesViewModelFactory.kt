@@ -3,7 +3,7 @@ package com.pnlbook.presentation.trades
 import android.app.Application
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
-import com.pnlbook.domain.Connection
+import com.pnlbook.domain.entity.Connection
 
 class TradesViewModelFactory(
     private val connection: Connection,
